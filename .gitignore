@@ -6,3 +6,4 @@ lib/
 *.cfg
 pip-selfcheck.json
 .ipynb_checkpoints/
+./input
