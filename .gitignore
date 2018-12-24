@@ -7,3 +7,7 @@ lib/
 pip-selfcheck.json
 .ipynb_checkpoints/
 ./input
+*.csv
+*LightGBM/
+*.png
+input/
